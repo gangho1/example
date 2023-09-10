@@ -21,7 +21,7 @@ void Main::Init()
 
     //add 씬에서 정해둔 키값으로 변환해서 보여줄씬 정합니다
     SCENE->ChangeScene("InGame");
-
+    // 갱호우
 }
 
 void Main::Release()
