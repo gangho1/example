@@ -24,6 +24,7 @@ void Main::Init()
     // 갱호우
     // 승호우
     // 승호우 2
+    // 1234567890
 }
 
 void Main::Release()
