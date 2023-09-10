@@ -26,6 +26,7 @@ void Main::Init()
     // 승호우 2
     // 1234567890
     // 내공간이다 으하하
+    //새로운 메인내용
 }
 
 void Main::Release()
