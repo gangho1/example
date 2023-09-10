@@ -23,6 +23,7 @@ void Main::Init()
     SCENE->ChangeScene("InGame");
     // 갱호우
     // 승호우
+    // 승호우 2
 }
 
 void Main::Release()
