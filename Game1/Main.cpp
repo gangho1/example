@@ -23,6 +23,7 @@ void Main::Init()
     SCENE->ChangeScene("InGame");
     // 갱호우
     // 승호우
+    // 1234567890
 }
 
 void Main::Release()
