@@ -25,6 +25,9 @@ void Main::Init()
     // ½ÂÈ£¿ì
     // ½ÂÈ£¿ì 2
     // 1234567890
+
+
+    // asdfasdfasdf
 }
 
 void Main::Release()
